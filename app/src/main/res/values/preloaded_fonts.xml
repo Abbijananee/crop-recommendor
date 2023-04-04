@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/abril_fatface</item>
+        <item>@font/adamina</item>
+        <item>@font/aguafina_script</item>
+        <item>@font/alike_angular</item>
+        <item>@font/almendra_bold_italic</item>
+        <item>@font/andika_new_basic_bold_italic</item>
+        <item>@font/aref_ruqaa</item>
+        <item>@font/aref_ruqaa_bold</item>
+        <item>@font/bangers</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/calistoga</item>
+        <item>@font/emblema_one</item>
+    </array>
+</resources>

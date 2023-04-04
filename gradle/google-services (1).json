@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219273112437",
+    "firebase_url": "https://croprecommendation-81146-default-rtdb.firebaseio.com",
+    "project_id": "croprecommendation-81146",
+    "storage_bucket": "croprecommendation-81146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219273112437:android:507ade33ff009e7c53413c",
+        "android_client_info": {
+          "package_name": "com.example.croprecommendation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219273112437-nog8pknvsp2j8suf54fteq5to69g1a09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXbEcz5gPy6YrD2BQ8LBUbsWpWIn9jTLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219273112437-nog8pknvsp2j8suf54fteq5to69g1a09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
